@@ -1,0 +1,6 @@
+centimetro = (int(input("Digite o valor correspondente ao lado de um quadrado: ")))
+
+area = centimetro * centimetro
+perimetro = 4 * centimetro
+
+print("perímetro: ", perimetro, "- área: ", area)
