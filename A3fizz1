@@ -1,0 +1,10 @@
+numero = int(input("Digite um número inteiro: "))
+calculo = numero %3 
+
+if calculo == 0:
+	print("Fizz")
+	
+else: 
+	print("", numero)
+	
+	
