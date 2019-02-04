@@ -9,4 +9,4 @@ while (n > 0):
     soma = soma + resto
 
 
-print("A soma dos números é: ", soma)
+print(soma)
